@@ -1,0 +1,24 @@
+{
+  "name": "ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/node-fetch": "^2.5.4",
+    "@types/node-static": "^0.7.3",
+    "@types/sockjs": "^0.3.31",
+    "@types/sockjs-client": "^1.1.1",
+    "axios": "^0.19.2",
+    "node-fetch": "^2.6.0",
+    "node-static": "^0.7.11",
+    "sockjs": "^0.3.19",
+    "sockjs-client": "^1.4.0"
+  }
+}
