@@ -15,7 +15,7 @@
     "@types/node-static": "^0.7.3",
     "@types/sockjs": "^0.3.31",
     "@types/sockjs-client": "^1.1.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "node-fetch": "^2.6.0",
     "node-static": "^0.7.11",
     "sockjs": "^0.3.19",
